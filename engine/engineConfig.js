@@ -33,7 +33,7 @@ const defaultObjectSize = vec2(.99);
 const defaultObjectMass = 1;
 const defaultObjectDamping = .99;
 const defaultObjectAngleDamping = .99;
-const defaultObjectElasticity = 0;
+const defaultObjectElasticity = 10;
 const defaultObjectFriction = .8;
 const maxObjectSpeed = 1;
 
